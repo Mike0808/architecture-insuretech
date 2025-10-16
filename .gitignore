@@ -1,3 +1,7 @@
 InsureTech_технологическая_архитектура-as-is.drawio.png
 InsureTech_технологическая_архитектура-as-is.drawio.xml
 *.dtmp
+Task1/.$InureTech_технологическая архитектура_to-be.drawio.bkp
+*pycache*/
+myenv/
+*.bkp
